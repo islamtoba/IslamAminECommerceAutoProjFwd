@@ -1,0 +1,16 @@
+org\example\Pages\Search_Page.class
+org\example\Pages\Login_Page.class
+org\example\Pages\Home_Page.class
+org\example\Pages\Register_Page.class
+org\example\StepDefinition\D08_WishList.class
+org\example\Pages\Category_Page.class
+org\example\StepDefinition\D05_HoverCategories.class
+org\example\Pages\Wishlist_Page.class
+org\example\StepDefinition\D04_Search.class
+org\example\StepDefinition\Hooks.class
+org\example\StepDefinition\D01_Register.class
+org\example\StepDefinition\D02_Login.class
+org\example\StepDefinition\D07_FollowUsStepDef.class
+org\example\StepDefinition\D06_HomeSliders.class
+org\example\Runners\Runners.class
+org\example\StepDefinition\D03_ChangeCurrency.class

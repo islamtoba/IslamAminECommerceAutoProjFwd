@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: org.example.Runners.Runners
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 149.411 s <<< FAILURE! - in org.example.Runners.Runners
+runScenario(org.example.Runners.Runners)  Time elapsed: 7.937 s  <<< FAILURE!
+java.lang.AssertionError: URL after click on First Slide expected [https://demo.nopcommerce.com/nokia-lumia-1020] but found [https://demo.nopcommerce.com/]
+
+runScenario(org.example.Runners.Runners)  Time elapsed: 7.324 s  <<< FAILURE!
+java.lang.AssertionError: URL after click on Second Slide expected [https://demo.nopcommerce.com/iphone-6] but found [https://demo.nopcommerce.com/]
+
+runScenario(org.example.Runners.Runners)  Time elapsed: 11.038 s  <<< FAILURE!
+java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+
